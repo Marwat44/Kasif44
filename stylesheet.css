@@ -18,3 +18,9 @@
     color: white;
     font-size: 32px;
 }
+body{
+    background-image: url(background\ img1.jpg);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
